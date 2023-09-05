@@ -1,6 +1,6 @@
 
 # Finding the next trendy neighborhood in chicago
-![intro_pic.png](/Users/maralhajizadeh/Downloads/Chicago.jpeg)
+![/Users/maralhajizadeh/Downloads/Chicago.jpeg](/Users/maralhajizadeh/Downloads/Chicago.jpeg)
 
 ## 1. Problem identification
 In larger cities old and neglected neighborhoods can quickly transform into a popular and trendy neighborhood with high real estate demand and sharp increase in the real estate prices. If detected early, these areas can be a good real estate investment opportunity. Some signs that can show a neighborhood is transforming are increase in the number of home renovations and new constructions, increase in the number of restaurants and bars in the area, and decrease in the crime rate. These factors all can cause an increase in housing prices.
